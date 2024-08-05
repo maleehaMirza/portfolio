@@ -126,7 +126,7 @@ nav ul li a:hover::after {
 
 
 /* ------------projects------------- */
-#projects {
+#portfolio {
 	padding: 50px 0;
 }
 
@@ -367,8 +367,9 @@ nav .fa-solid {
 		margin-bottom: 30px;
 	}
 
-	.about-col-2 {
-		font-size: 14px;
+	.about-col-2-text {
+		font-size: 40px;
+		font-weight: 600;
 		overflow: auto;
 	}
 
@@ -475,7 +476,8 @@ nav .fa-solid {
 	}
 
 	.about-col-2 {
-		font-size: 14px;
+		font-size: 40px;
+		font-weight: 600;
 	}
 
 	.copyright {
@@ -508,7 +510,8 @@ nav .fa-solid {
 
 	.about-col-2 {
 		flex-basis: 60%;
-		font-size: 14px;
+		font-size: 40px;
+		font-weight: 600;
 	}
 }
 
